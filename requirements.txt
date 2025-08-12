@@ -1,8 +1,10 @@
-pandas==2.3.1
+```
 numpy==2.2.6
-scipy==1.16.0
-scikit-learn==1.6.1
-imbalanced-learn==0.13.0
+pandas==2.3.1
+sklearn==1.6.1
 xgboost==3.0.3
-seaborn==0.13.2
+imblearn==0.13.0
+scipy==1.16.0
+sns==0.13.2
 matplotlib==3.10.3
+```
